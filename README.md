@@ -41,8 +41,8 @@ Key Insights
 - Trader behavior shifts significantly based on market sentiment
 
 Google Colab Links
-- Notebook 1: [Add Colab Link Here]
-- Notebook 2: [Add Colab Link Here]
+- Google Colab Notebook 1: https://colab.research.google.com/drive/1uPj0T98vw-Spd7Bd_ALvwCnL0fKSai2h?usp=drive_link
+- Google Colab Notebook 2: https://colab.research.google.com/drive/1OJa87Jndtahf_6tYoplYoYmgtyh04lDL?usp=drive_link
 
 Tools & Libraries
 - Python
